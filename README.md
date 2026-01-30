@@ -1,7 +1,7 @@
 <h1>Advance SQL Techniques</h1>
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
 
-### Advance SQL projects demonstrate comprehensive skills like: 
+### Advanced SQL projects demonstrate comprehensive skills like: 
  - <b>TEST Retrieving Data from a Single Table</b>
  - <b>TEST Filtering and Calculating Data</b>
  - <b>TEST Summarizing the Data</b>
@@ -77,7 +77,7 @@ TEST REQUEST
 ###
 <p align="center">
 TEST TABLE 5 JOINS AND UNION: <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/3cc2ed64-cc59-4d03-8e17-7bfbf955b8ec" />
 <br />
 <br />
 </p>
